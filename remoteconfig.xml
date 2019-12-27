@@ -96,14 +96,14 @@
 		<Banner></Banner>
 		<Interstitial></Interstitial>
 	</CarCrashTestCamaro>
-	<LamboCentenarioCrashDrivingSimulator>
+	<CarCrashTestLamboCentenario>
 		<FeatureImgLink>https://i.imgur.com/4wLqrtK.png</FeatureImgLink>
 		<FeatureAppLink>https://play.google.com/store/apps/details?id=com.InsaneInTheGame.CarCrashTestVAZ2106</FeatureAppLink>
 		<appLink>https://play.google.com/store/apps/details?id=com.InsaneInTheGame.CarCrashTestVAZ2106</appLink>
 		<imgUrl>https://i.imgur.com/k5JWUAw.png</imgUrl>
 		<Banner>ca-app-pub-7556411078971414/8453743279</Banner>
 		<Interstitial>ca-app-pub-7556411078971414/4710619716</Interstitial>
-	</LamboCentenarioCrashDrivingSimulator>
+	</CarCrashTestLamboCentenario>
 	<CarCrashTestZIL130>
 		<FeatureImgLink>https://i.imgur.com/4wLqrtK.png</FeatureImgLink>
 		<FeatureAppLink>https://play.google.com/store/apps/details?id=com.InsaneInTheGame.CarCrashTestVAZ2106</FeatureAppLink>
